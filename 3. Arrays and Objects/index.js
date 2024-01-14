@@ -84,11 +84,8 @@ console.log("Total Units:", totalUnits);
 
 // Todo 3.6 Going back to the array of numbers, use the spread syntax to create a copy of the array with an additional number
 // Your code here
-// Todo 3.6 Going back to the array of numbers, use the spread syntax to create a copy of the array with an additional number
-// Your code here
 
 const numbersCopy = [...numbers, 100];
-
 console.log("Original Array:", numbers);
 console.log("Copied Array with Additional Number:", numbersCopy);
 
